@@ -24,3 +24,9 @@ properties:
 - name: branch
   type: string
   required: false
+- name: custom_message
+  type: string
+  required: false
+- name: custom_color
+  type: string
+  required: false
